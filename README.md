@@ -1,6 +1,6 @@
 ### Hey I'm [Pritam!](https://github.com/warmachine028) 🚀
 
-🎓 I am a **First** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
+🎓 I am a **First** year student at **UEMK** pursuing my Bachelors in Computer Science Engineering. </br>
 😋 I am passionate about **Machine learning**. Currently learning **Everything**. </br>
 
 
