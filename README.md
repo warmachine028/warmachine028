@@ -1,4 +1,4 @@
-### Hey I'm [Pritam!](https://github.com/warmachine028) 🚀
+### Hey I'm [Pritam!](https://github.com/warmachine028.github.io) 🚀
 
 🎓 I am a **First** year student at **UEMK** pursuing my Bachelors in Computer Science Engineering.  
 😋 I am passionate about **UI**. Currently learning GUI app deigning in **tkinter**. 
