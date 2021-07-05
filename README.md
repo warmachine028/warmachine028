@@ -12,5 +12,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
-[website]: https://warmachine028.github.io
+[web]: https://warmachine028.github.io
+[website]: https://warmachine028.github.io 
 [betrcal]: https://warmachine028.github.io/Better-Calculator/
