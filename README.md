@@ -17,9 +17,9 @@
 [![better calculator]](https://github.com/warmachine028/Better-Calculator)
 [![h m s]](https://github.com/warmachine028/Hospital-Management-Software)  
 [![music player]](https://github.com/warmachine028/MusicPlayer)
-[![codeui]](https://github.com/warmachine028/KMeansExample)
+[![codeui]](https://github.com/warmachine028/codeui)
 [![kmexample]](https://github.com/warmachine028/KMeansExample)
-[![victor mono]](https://github.com/warmachine028/warmachine028)
+[![victor mono]](https://github.com/warmachine028/victor-mono)
 
 <!-- Links -->
 
