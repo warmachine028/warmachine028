@@ -28,7 +28,7 @@
 <div align=center> <img src="https://komarev.com/ghpvc/?username=warmachine028"> </div>
 <!-- Links -->
 
-[kryptonite]: https://warmachine028.github.io
+[kryptonite]: https://warmachine028.github.io/portfolio/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
 
 <!-- Repos -->
