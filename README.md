@@ -30,16 +30,6 @@
   
 ![line]  
 
-### 📊 My GitHub Stats 📊
-
-<div align="center">  
-   <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=warmachine028&show_icons=true&bg_color=000000&title_color=f5f9ff&icon_color=00ff3c&text_color=FF0000&hide_border=true" /> <br>
-   <img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDDhttp://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDD" /><br>
-   <img alt = "Activity Graph" src = "https://activity-graph.herokuapp.com/graph?username=warmachine028&bg_color=000000&color=FF0000&line=00ff3c&point=FFFFFF&hide_border=true&area=true&area_color=0b9e00" />
- </div>
- 
-![line]
-
 ### 🏆 My Trophies 🏆
 <div align="center">
    <img alt = "Github Trophies" src="https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=3&row=2"> 
@@ -70,6 +60,28 @@
       <img alt ="Attendance Analyzer" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=attendance-analyzer&bg_color=70,b8b9ba,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
    </a>
 </div>
+
+![line]
+
+<!-- ### 📊 My GitHub Stats 📊 -->
+
+<details>
+
+   <summary><h3> 📊 My GitHub Stats 📊 <h3/> </summary>
+
+<div align="center">  
+
+   <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=warmachine028&show_icons=true&bg_color=000000&title_color=f5f9ff&icon_color=00ff3c&text_color=FF0000&hide_border=true" /> <br>
+
+   <img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDDhttp://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDD" /><br>
+
+   <img alt = "Activity Graph" src = "https://activity-graph.herokuapp.com/graph?username=warmachine028&bg_color=000000&color=FF0000&line=00ff3c&point=FFFFFF&hide_border=true&area=true&area_color=0b9e00" />
+
+ </div>
+
+ </details>
+
+ 
 
 ![line]
 
