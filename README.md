@@ -37,30 +37,32 @@
 
 ![line]
 
-### 📕 My Repos 📗
-<div align="center">
-   <a href="https://warmachine028.github.io/Better-Calculator/">
-      <img alt = "Better Calculator" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Better-Calculator&bg_color=7,000000,023880,C25E19,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" />
-   </a>
-   <a href="https://github.com/warmachine028/Hospital-Management-Software">
-      <img alt = "Hospital Management System" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Hospital-Management-Software&bg_color=50,00b3ff,bf0254&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" /> 
-   </a><br>
-   
-   <a href="https://github.com/warmachine028/portfolio">
-      <img alt ="Portfolio" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Portfolio&bg_color=70,d0ae57,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-   </a>
-   <a href="https://github.com/warmachine028/codeui">
-      <img alt ="Code UI" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=codeui&bg_color=70,B20000,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-   </a><br>
-   
-   <a href="https://github.com/warmachine028/KMeansExample">
-      <img alt ="KMeans Example" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=KMeansExample&bg_color=30,e96443,904e95&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-   </a>
-   <a href="https://github.com/warmachine028/Attendance-Analyzer">
-      <img alt ="Attendance Analyzer" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=attendance-analyzer&bg_color=70,b8b9ba,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-   </a>
-</div>
+<!-- ### 📕 My Repos 📗 -->
 
+<details>
+      <summary><h3> 📕 My Repos 📗 <h3/></summary>
+      <div align="center">
+         <a href="https://warmachine028.github.io/Better-Calculator/">
+            <img alt = "Better Calculator" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Better-Calculator&bg_color=7,000000,023880,C25E19,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" />
+         </a>
+         <a href="https://github.com/warmachine028/Hospital-Management-Software">
+            <img alt = "Hospital Management System" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Hospital-Management-Software&bg_color=50,00b3ff,bf0254&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" /> 
+         </a><br>         
+         <a href="https://github.com/warmachine028/portfolio">
+            <img alt ="Portfolio" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Portfolio&bg_color=70,d0ae57,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
+         </a>
+         <a href="https://github.com/warmachine028/codeui">
+            <img alt ="Code UI" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=codeui&bg_color=70,B20000,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
+         </a><br>         
+         <a href="https://github.com/warmachine028/KMeansExample">
+            <img alt ="KMeans Example" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=KMeansExample&bg_color=30,e96443,904e95&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
+         </a>
+         <a href="https://github.com/warmachine028/Attendance-Analyzer">
+            <img alt ="Attendance Analyzer" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=attendance-analyzer&bg_color=70,b8b9ba,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
+         </a>
+     </div>
+</details>
+   
 ![line]
 
 <!-- ### 📊 My GitHub Stats 📊 -->
@@ -82,7 +84,6 @@
  </details>
 
  
-
 ![line]
 
 <h3 align="center"> Visitor count <br><img src="https://profile-counter.glitch.me/warmachine028/count.svg"/></h3>
