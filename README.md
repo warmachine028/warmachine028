@@ -80,8 +80,7 @@
    <img alt = "Activity Graph" src = "https://activity-graph.herokuapp.com/graph?username=warmachine028&bg_color=000000&color=FF0000&line=00ff3c&point=FFFFFF&hide_border=true&area=true&area_color=0b9e00" />
 
  </div>
-
- </details>
+</details>
 
 ![line]
 
