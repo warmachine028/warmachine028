@@ -83,6 +83,16 @@
 
  </details>
 
+![line]
+
+<!-- ### 💖 For my Github Followers 💖-->
+
+<details>
+   <summary><h3> 💖 A small token of Appreciation 💖 </h3></summary>
+   <div align="center">
+      <img alt = "Thanks to all my followers" src = "https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg"/>
+   </div>
+</details>
  
 ![line]
 
@@ -91,12 +101,17 @@
 
 <h4 align="center"> Find me on <a href="https://www.linkedin.com/in/pritam-kundu-b16304211/">LinkedIn</a>. Feel free to <a href="mailto:pritamkundu771@gmail.com">mail</a> me here.</h4>
 
+ 
+ 
+   
+ 
 <!-- Links -->
 [linkedin]: https://www.linkedin.com/in/pritam-kundu-b16304211/
 
 [mail]: mailto:pritamkundu771@gmail.com
 [portfolio]: https://warmachine028.github.io/portfolio/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
+[meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
 
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
