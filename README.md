@@ -1,11 +1,9 @@
-
 ![HEADER](https://user-images.githubusercontent.com/75939390/137618587-814e87c9-881b-4b95-887b-f38426f4bf18.jpg)
 
 <!-- Viewer Counter -->
-<div align=center> <img src="https://komarev.com/ghpvc/?username=warmachine028"> </div>  
+<div align=center> <img src="https://komarev.com/ghpvc/?username=warmachine028"> </div>
 
 <!-- # Hi there I'm Pritam - aka [Kryptonite] 🚀 -->
-
 
 <div align="center">
    <p align="center">
@@ -14,23 +12,27 @@
 </div>
 
 ### Hi there I'm Pritam - aka Kryptonite 🚀
+
 - 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering.
 - 👩‍💻 Python | C | Markdown | HTML | CSS | JS
 - 🌱 I'm currently learning C programming language
 - 😋 I'm passionate about **UI**. Currently learning GUI app deigning in **tkinter**.
-- ⚡ Fun Fact: I love build things from scratch
+- ⚡ Fun Fact 1: I love build things from scratch
+- 😄 Fun Fact 2: I have great attention to detail
 - 📄 Have a look at my [Portfolio]
 
-![line]  
+![line]
 
 ### 💖 My Favourite Languages 💖
+
 <div align="center">  
    <img alt = "Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=warmachine028&bg_color=000000&title_color=f5f9ff&text_color=FF0000&layout=compact&hide_border=true"/>
 </div>
   
-![line]  
+![line]
 
 ### 🏆 My Trophies 🏆
+
 <div align="center">
    <img alt = "Github Trophies" src="https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=3&row=2"> 
 </div>
@@ -68,14 +70,13 @@
 <!-- ### 📊 My GitHub Stats 📊 -->
 
 <details>
-
    <summary><h3> 📊 My GitHub Stats 📊 <h3/> </summary>
 
-<div align="center">  
+<div align="center">
 
-   <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=warmachine028&show_icons=true&bg_color=000000&title_color=f5f9ff&icon_color=00ff3c&text_color=FF0000&hide_border=true" /> <br>
+<img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=warmachine028&show_icons=true&bg_color=000000&title_color=f5f9ff&icon_color=00ff3c&text_color=FF0000&hide_border=true" /> <br>
 
-   <img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDDhttp://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDD" /><br>
+<img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDDhttp://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDD" /><br>
 
    <img alt = "Activity Graph" src = "https://activity-graph.herokuapp.com/graph?username=warmachine028&bg_color=000000&color=FF0000&line=00ff3c&point=FFFFFF&hide_border=true&area=true&area_color=0b9e00" />
 
@@ -89,7 +90,7 @@
 <details>
    <summary><h3> 💖 A small token of Appreciation 💖 </h3></summary>
    <div align="center">
-      <img alt = "Thanks to all my followers" src = "https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg"/>
+      <img alt = "Thanks to all my followers" src = "https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg"  height="400" width="460"/>
    </div>
 </details>
  
@@ -100,17 +101,13 @@
 
 <h4 align="center"> Find me on <a href="https://www.linkedin.com/in/pritam-kundu-b16304211/">LinkedIn</a>. Feel free to <a href="mailto:pritamkundu771@gmail.com">mail</a> me here.</h4>
 
- 
- 
-   
- 
 <!-- Links -->
-[linkedin]: https://www.linkedin.com/in/pritam-kundu-b16304211/
 
+[linkedin]: https://www.linkedin.com/in/pritam-kundu-b16304211/
 [mail]: mailto:pritamkundu771@gmail.com
 [portfolio]: https://warmachine028.github.io/portfolio/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
-[meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
 
+[meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
