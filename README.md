@@ -47,14 +47,14 @@
          <a href="https://warmachine028.github.io/Better-Calculator/">
             <img alt = "Better Calculator" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Better-Calculator&bg_color=7,000000,023880,C25E19,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" />
          </a>
-         <a href="https://github.com/warmachine028/Hospital-Management-Software">
-            <img alt = "Hospital Management System" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Hospital-Management-Software&bg_color=50,00b3ff,bf0254&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" /> 
-         </a><br>         
+         <a href="https://github.com/warmachine028/dataStax">
+            <img alt = "dataStax" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=dataStax&bg_color=50,00EFD1,00bbd1,007dff,0200b9&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" />
+         </a><br>
          <a href="https://github.com/warmachine028/portfolio">
             <img alt ="Portfolio" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Portfolio&bg_color=70,d0ae57,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
          </a>
-         <a href="https://github.com/warmachine028/codeui">
-            <img alt ="Code UI" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=codeui&bg_color=70,B20000,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
+         <a href="https://github.com/warmachine028/Hospital-Management-Software">
+            <img alt = "Hospital Management System" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Hospital-Management-Software&bg_color=50,00b3ff,bf0254&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" /> 
          </a><br>         
          <a href="https://github.com/warmachine028/KMeansExample">
             <img alt ="KMeans Example" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=KMeansExample&bg_color=30,e96443,904e95&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
