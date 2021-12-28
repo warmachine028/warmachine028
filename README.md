@@ -7,17 +7,17 @@
 
 <div align="center">
    <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Problem+Solver;UI/UX+Designer;Gamer"/>
+   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Problem+Solver;UI/UX+Designer;Gamer;Author+of+dataStax"/>
     </p>
 </div>
 
 ### Hi there I'm Pritam - aka Kryptonite 🚀
 
-- 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering.
+- 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering
 - 👩‍💻 Python | C | Markdown | HTML | CSS | JS
 - 🌱 I'm currently learning C programming language
-- 😋 I'm passionate about **UI**. Currently learning GUI app deigning in **tkinter**.
-- ⚡ Fun Fact 1: I love build things from scratch
+- 😋 I'm passionate about **UI**. Currently learning GUI app deigning in **tkinter**
+- ⚡ Fun Fact 1: I am the author of [dataStax] Library
 - 😄 Fun Fact 2: I have great attention to detail
 - 📄 Have a look at my [Portfolio]
 
@@ -107,7 +107,7 @@
 [mail]: mailto:pritamkundu771@gmail.com
 [portfolio]: https://warmachine028.github.io/portfolio/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
-
+[dataStax]: https://pypi.org/project/datastax/
 [meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
