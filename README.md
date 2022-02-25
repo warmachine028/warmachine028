@@ -96,8 +96,7 @@
 ![line]
 
 <h3 align="center"> Visitor count <br><img src="https://profile-counter.glitch.me/warmachine028/count.svg"/></h3>
-<h3 align="center"> Show some ❤️ by starring 🌟 and forking ✨ some of the repositories!</h3>
-
+<h3 align="center"> Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> and 🍴 some of the repositories!</h3>
 <h4 align="center"> Find me on <a href="https://www.linkedin.com/in/pritam-kundu-b16304211/">LinkedIn</a>. Feel free to <a href="mailto:pritamkundu771@gmail.com">mail</a> me here.</h4>
 
 <!-- Links -->
