@@ -113,7 +113,7 @@
 
 [linkedin]: https://www.linkedin.com/in/pritam-kundu-b16304211/
 [mail]: mailto:pritamkundu771@gmail.com
-[portfolio]: https://warmachine028.github.io/portfolio-old/
+[portfolio]: https://portfolio-pritam.netlify.app/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
 [dataStax]: https://pypi.org/project/datastax/
 [meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
