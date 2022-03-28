@@ -26,6 +26,16 @@
 
 <div align="center">  
    <img alt = "Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=warmachine028&bg_color=000000&title_color=f5f9ff&text_color=FF0000&layout=compact&hide_border=true"/>
+   <br><br>
+   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+   <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
   
 ![line]
@@ -103,7 +113,7 @@
 
 [linkedin]: https://www.linkedin.com/in/pritam-kundu-b16304211/
 [mail]: mailto:pritamkundu771@gmail.com
-[portfolio]: https://warmachine028.github.io/portfolio/
+[portfolio]: https://warmachine028.github.io/portfolio-old/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
 [dataStax]: https://pypi.org/project/datastax/
 [meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
