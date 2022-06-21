@@ -43,7 +43,7 @@
 ### 🏆 My Trophies 🏆
 
 <div align="center">
-   <img alt = "Github Trophies" src="https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=3&row=2"> 
+   <img alt = "Github Trophies" src="https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=4&row=2"> 
 </div>
 
 ![line]
