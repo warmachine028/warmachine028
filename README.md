@@ -15,7 +15,7 @@
 
 - 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering
 - 👩‍💻 Python | C | Markdown | HTML | CSS | JS
-- 😋 I'm Currently learning app deigning in **electron**. Have a look at [Markdown Editor]
+- 😋 I'm Currently learning Web deigning in **React**. Have a look at [Memories]
 - ⚡ Fun Fact 1: I am the author of [dataStax] Library
 - 😄 Fun Fact 2: I have great attention to detail
 - 📄 Have a look at my [Portfolio]
@@ -120,4 +120,5 @@
 [dataStax]: https://pypi.org/project/datastax/
 [meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
 [Markdown Editor]: https://github.com/warmachine028/markdown-editor
+[Memories]: https://memories-pritam.netlify.app
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
