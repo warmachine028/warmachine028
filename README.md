@@ -7,7 +7,7 @@
 
 <div align="center">
    <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Web+Developer;Open+Source+Mentor;Gamer;Author+of+dataStax"/>
+   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Web+Developer;Open+Source+Mentor;Gamer;Author+of+dataStax;Full-Stack-Developer"/>
     </p>
 </div>
 
