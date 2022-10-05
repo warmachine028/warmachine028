@@ -7,18 +7,18 @@
 
 <div align="center">
    <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Problem+Solver;UI/UX+Designer;Gamer;Author+of+dataStax"/>
+   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Web+Developer;Open+Source+Mentor;Gamer;Author+of+dataStax"/>
     </p>
 </div>
 
 ### Hi there I'm Pritam - aka Kryptonite 🚀
 
-- 🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering
-- 👩‍💻 Python | C | Markdown | HTML | CSS | JS
-- 😋 I'm Currently learning Web deigning in **React**. Have a look at [Memories]
-- ⚡ Fun Fact 1: I am the author of [dataStax] Library
-- 😄 Fun Fact 2: I have great attention to detail
-- 📄 Have a look at my [Portfolio]
+-   🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering
+-   👩‍💻 Python | C | Markdown | HTML | CSS | JS | SQL
+-   😋 I'm Currently learning Web deigning in **React**. Have a look at [uemcrp]
+-   ⚡ Fun Fact 1: I am the author of [dataStax] Library
+-   😄 Fun Fact 2: I have great attention to detail
+-   📄 Have a look at my [Portfolio]
 
 ![line]
 
@@ -45,6 +45,20 @@
 <div align="center">
    <img alt = "Github Trophies" src="https://github-profile-trophy.vercel.app/?username=warmachine028&margin-w=10&margin-h=10&theme=onestar&column=4&row=2"> 
 </div>
+
+![line]
+
+<!-- ### 📕 Most Popular Open-Source Repositories 📗 -->
+
+### 👑 Most Popular Open-Source Repositories🔺👑
+
+| 🎁 Projects  |                                               ⭐ Stars                                                |                                               📚 Forks                                                |                                                                         🛎 Issues                                                                          |                                         👩‍💻 Contributors 👨‍💻                                         |
+| :----------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| **[UEMCRP]** | [![Stars](https://img.shields.io/github/stars/warmachine028/uemcrp?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/uemcrp/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/uemcrp?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/uemcrp/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/uemcrp?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/uemcrp/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/uemcrp?color=violet)](https://github.com/warmachine028/uemcrp/graphs/contributors) |
+| **[Memories](https://github.com/warmachine028/memories)** | [![Stars](https://img.shields.io/github/stars/warmachine028/memories?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/memories/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/memories?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/memories/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/memories?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/memories/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/memories?color=violet)](https://github.com/warmachine028/memories/graphs/contributors) |
+| **[Markdown Editor]** | [![Stars](https://img.shields.io/github/stars/warmachine028/markdown-editor?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/markdown-editor/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/markdown-editor?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/markdown-editor/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/markdown-editor?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/markdown-editor/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/markdown-editor?color=violet)](https://github.com/warmachine028/markdown-editor/graphs/contributors) |
+| **[Datastax](https://github.com/warmachine028/datastax)** | [![Stars](https://img.shields.io/github/stars/warmachine028/datastax?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/datastax/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/datastax?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/datastax/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/datastax?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/datastax/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/datastax?color=violet)](https://github.com/warmachine028/datastax/graphs/contributors) |
+| **[Better Calculator](https://github.com/warmachine028/Better-Calculator)** | [![Stars](https://img.shields.io/github/stars/warmachine028/better-calculator?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/better-calculator/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/better-calculator?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/better-calculator/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/better-calculator?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/better-calculator/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/better-calculator?color=violet)](https://github.com/warmachine028/better-calculator/graphs/contributors) |
 
 ![line]
 
@@ -117,8 +131,11 @@
 [mail]: mailto:pritamkundu771@gmail.com
 [portfolio]: https://portfolio-pritam.netlify.app/
 [gui application]: https://warmachine028.github.io/Better-Calculator/
-[dataStax]: https://pypi.org/project/datastax/
+[datastax]: https://pypi.org/project/datastax/
+
 [meme]: ![FB_IMG_1639912917576](https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg)
 [Markdown Editor]: https://github.com/warmachine028/markdown-editor
 [Memories]: https://memories-pritam.netlify.app
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
+
+[uemcrp]: https://github.com/warmachine028/uemcrp
