@@ -13,7 +13,7 @@
 
 ### Hi there I'm Pritam - aka Kryptonite 🚀
 
--   🎓 I'm currently in **Second** year pursuing my Bachelors in Computer Science & Engineering
+-   🎓 I'm currently in **Third** year pursuing my Bachelors in Computer Science & Engineering
 -   👩‍💻 Python | C | Markdown | HTML | CSS | JS | SQL
 -   😋 I'm Currently learning Web deigning in **React**. Have a look at [uemcrp]
 -   ⚡ Fun Fact 1: I am the author of [dataStax] Library
