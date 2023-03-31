@@ -19,9 +19,9 @@
 -   ⚡ Fun Fact 1: I am the author of [dataStax] Library
 -   😄 Fun Fact 2: I have great attention to detail
 -   📄 Have a look at my [Portfolio]
--   am i'm a dumbass who leaves their account open in the college lab
--   I hate 2fa authentication (i am a moron ;)
--   )
+
+
+
 
 ![line]
 
