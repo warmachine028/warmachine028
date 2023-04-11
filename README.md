@@ -30,15 +30,6 @@
 <div align="center">  
    <img alt = "Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=warmachine028&bg_color=000000&title_color=f5f9ff&text_color=FF0000&layout=compact&hide_border=true"/>
    <br><br>
-   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-   <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 </div>
   
 ![line]
@@ -64,36 +55,6 @@
 | **[Datastax](https://github.com/warmachine028/datastax)** | [![Stars](https://img.shields.io/github/stars/warmachine028/datastax?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/datastax/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/datastax?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/datastax/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/datastax?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/datastax/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/datastax?color=violet)](https://github.com/warmachine028/datastax/graphs/contributors) |
 | **[Better Calculator](https://github.com/warmachine028/Better-Calculator)** | [![Stars](https://img.shields.io/github/stars/warmachine028/better-calculator?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/better-calculator/stargazers) | [![Forks](https://img.shields.io/github/forks/warmachine028/better-calculator?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/better-calculator/network/members) | [![Issues](https://img.shields.io/github/issues/warmachine028/better-calculator?style=flat-round&labelColor=343b41)](https://github.com/warmachine028/better-calculator/issues) | [![GitHub contributors](https://img.shields.io/github/contributors/warmachine028/better-calculator?color=violet)](https://github.com/warmachine028/better-calculator/graphs/contributors) |
 
-![line]
-
-<!-- ### 📕 My Repos 📗 -->
-
-<details>
-      <summary><h3> 📕 My Repos 📗 <h3/></summary>
-      <div align="center">
-         <a href="https://github.com/warmachine028/memories">
-            <img alt = "Memories" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=memories&bg_color=7,000000,023880,C25E19,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" />
-         </a>
-         <a href="https://github.com/warmachine028/euphoria">
-            <img alt ="KMeans Example" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=euphoria&bg_color=30,e96443,904e95&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-         </a>
-         <br>
-         <a href="https://github.com/warmachine028/dataStax">
-            <img alt = "dataStax" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=dataStax&bg_color=50,00EFD1,00bbd1,007dff,0200b9&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" />
-         </a>
-         <a href="https://github.com/warmachine028/portfolio">
-            <img alt ="Portfolio" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=Portfolio&bg_color=70,d0ae57,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-         </a><br>
-         <a href="https://github.com/warmachine028/markdown-editor">
-            <img alt = "Hospital Management System" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=markdown-editor&bg_color=50,00b3ff,bf0254&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff" /> 
-         </a>
-         <a href="https://github.com/warmachine028/nifty-gifty-webpage">
-            <img alt ="Attendance Analyzer" src = "https://github-readme-stats.vercel.app/api/pin/?username=warmachine028&repo=nifty-gifty-webpage&bg_color=70,b8b9ba,000000&title_color=f5f9ff&text_color=f5f9ff&hide_border=true&icon_color=f5f9ff">
-         </a>
-         <br>
-     </div>
-</details>
-   
 ![line]
 
 <!-- ### 📊 My GitHub Stats 📊 -->
@@ -125,8 +86,7 @@
  
 ![line]
 
-<h3 align="center"> Visitor count <br><img src="https://profile-counter.glitch.me/warmachine028/count.svg"/></h3>
-<h3 align="center"> Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> and 🍴 some of the repositories!</h3>
+<h3 align="center"> Show some ❤️ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> and 🍴 some of the <a href="https://github.com/warmachine028?tab=repositories">repositories!</a></h3>
 <h4 align="center"> Find me on <a href="https://www.linkedin.com/in/pritam-kundu-b16304211/">LinkedIn</a>. Feel free to <a href="mailto:pritamkundu771@gmail.com">mail</a> me here.</h4>
 
 <!-- Links -->
