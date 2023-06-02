@@ -67,7 +67,7 @@
 <img alt = "Github Stats" src= "https://github-readme-stats.vercel.app/api?username=warmachine028&show_icons=true&bg_color=000000&title_color=f5f9ff&icon_color=00ff3c&text_color=FF0000&hide_border=true" /> <br>
 
 <img alt = "Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDDhttp://github-readme-streak-stats.herokuapp.com?user=warmachine028&theme=radical&hide_border=true&background=000000&stroke=DD0600&fire=C25E19&ring=1DDD0D&dates=00b3ff&currStreakNum=FF3086&currStreakLabel=DD1D00&sideLabels=DD0000&sideNums=DDDDDD" /><br>
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=warmachine028&bg_color=000000&color=ff0000&line=1eff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=warmachine028&bg_color=000000&color=ff0000&line=1eff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
                                   
 
  </div>
