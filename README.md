@@ -60,7 +60,7 @@
 <!-- ### 📊 My GitHub Stats 📊 -->
 
 <details>
-   <summary><h3> 📊 My GitHub Stats 📊 <h3/> </summary>
+   <summary><h3> 📊 My GitHub Stats 📊 <h3/></summary>
 
 <div align="center">
 
