@@ -14,7 +14,6 @@
 
 -   🎓 I'm currently in **Third** year pursuing my Bachelors in Computer Science & Engineering
 -   👩‍💻 Python | Java | React | HTML | CSS | JS | SQL | MongoDB | MaterialUI | Figma
--   😋 I'm Currently learning Web designing using **React**. Have a look at [uemcrp]
 -   ⚡ Fun Fact 1: I am the author of [dataStax] Library
 -   😄 Fun Fact 2: I have great attention to detail
 -   📄 Have a look at my [Portfolio]
