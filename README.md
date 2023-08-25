@@ -102,8 +102,8 @@
 <!-- Projects -->
 [uemcrp]: https://github.com/warmachine028/uemcrp
 [nike]: https://github.com/warmachine028/nike
-[Memories]: https://memories-pritam.netlify.app
+[Memories]: https://github.com/warmachine028/memories
 [Euphoria]: https://github.com/warmachine028/euphoria
-[datastax]: https://pypi.org/project/datastax/
+[datastax]: https://github.com/warmachine028/datastax
 [Markdown Editor]: https://github.com/warmachine028/markdown-editor
 [Better Calculator]: https://warmachine028.github.io/Better-Calculator/
