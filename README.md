@@ -80,7 +80,9 @@
 <details>
    <summary><h3> 💖 A small token of Appreciation 💖 </h3></summary>
    <div align="center">
-      <img alt = "Thanks to all my followers" src = "https://user-images.githubusercontent.com/75939390/146673196-59b1fc6c-cab7-4461-bf1e-6ed95dd9a33d.jpg"  height="400" width="460"/>
+      <img alt = "Thanks to all my followers" src = "https://github.com/warmachine028/warmachine028/assets/75939390/fd7bbf3d-3001-4408-b744-1e7e0d7a71cc"  height="400" width="460"/>
+  
+
    </div>
 </details>
  
