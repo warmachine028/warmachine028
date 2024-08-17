@@ -1,12 +1,13 @@
-![HEADER](https://user-images.githubusercontent.com/75939390/137618587-814e87c9-881b-4b95-887b-f38426f4bf18.jpg)
+<!-- ![HEADER](https://user-images.githubusercontent.com/75939390/137618587-814e87c9-881b-4b95-887b-f38426f4bf18.jpg) --> 
 
+![HEADER](banner.png)
 <!-- Viewer Counter -->
 <h3 align="center"> Visitor count <br><img src="https://profile-counter.glitch.me/warmachine028/count.svg"/></h3>
 <!-- # Hi there I'm Pritam - aka [Kryptonite] 🚀 -->
 
 <div align="center">
    <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?&font=Parisienne&color=D61491&size=55&width=890&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Web+Developer;Open+Source+Mentor;Gamer;Author+of+dataStax;Full-Stack-Developer"/>
+   <img src="https://readme-typing-svg.herokuapp.com?color=5af542&size=49&width=800&center=true&height=90&lines=Under-Grad+Computer+Science+Engineer;Open+Source+Contributor;Programming+Enthusiast;GWOC+Contributor;Pythonista;Web+Developer;Open+Source+Mentor;Gamer;Author+of+dataStax;Full-Stack-Developer"/>
     </p>
 </div>
 
