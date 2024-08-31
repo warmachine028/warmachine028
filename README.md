@@ -1,9 +1,7 @@
-![HEADER](https://user-images.githubusercontent.com/75939390/137618587-814e87c9-881b-4b95-887b-f38426f4bf18.jpg)
-
-<!-- ![HEADER](banner.png) -->
+<!-- ![HEADER](https://user-images.githubusercontent.com/75939390/137618587-814e87c9-881b-4b95-887b-f38426f4bf18.jpg) -->
+![HEADER](banner.png)
 <!-- Viewer Counter -->
 <h3 align="center"> Visitor count <br><img src="https://profile-counter.glitch.me/warmachine028/count.svg"/></h3>
-<!-- # Hi there I'm Pritam - aka [Kryptonite] 🚀 -->
 
 <div align="center">
    <p align="center">
