@@ -11,7 +11,6 @@
 
 ### Hi there I'm Pritam - aka Kryptonite 🚀
 
--   🎓 I'm currently in **Fourth** year pursuing my Bachelors in Computer Science & Engineering from **UEMK**
 -   👩‍💻 Python | Java | React | HTML | CSS | JS | SQL | MongoDB | MaterialUI | Figma | TailwindCSS | GraphQL | REST
 -   ⚡ Fun Fact 1: I am the author of [dataStax] Library
 -   😄 Fun Fact 2: I have great attention to detail
